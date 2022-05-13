@@ -31,3 +31,5 @@ May 9, 2022 — Read React Testing Library's cheatsheet, watched [Leigh Halliday
 May 10, 2022 — Read TOP section on [React Router](https://www.theodinproject.com/lessons/node-path-javascript-router) and read the [documentation overview](https://reactrouter.com/docs/en/v6/getting-started/overview).
 
 May 11, 2022 — Completed TOP section on React Router and ES6. Started working on a new portfolio but npm start would weirdly launch webpack instead of react-scripts, there might have been an issue with the dependencies. Haven't coded in a while.
+
+May 12, 2022 — Reviewed TOP section on asynchronous code (callbacks, promises) as well as how to set up a React app without create-react-app.
