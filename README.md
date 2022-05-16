@@ -33,3 +33,5 @@ May 10, 2022 — Read TOP section on [React Router](https://www.theodinproject.c
 May 11, 2022 — Completed TOP section on React Router and ES6. Started working on a new portfolio but npm start would weirdly launch webpack instead of react-scripts, there might have been an issue with the dependencies. Haven't coded in a while.
 
 May 13, 2022 — Reviewed TOP section on asynchronous code (callbacks, promises) as well as how to set up a React app without create-react-app.
+
+May 16, 2022 — Started working on my portfolio.
