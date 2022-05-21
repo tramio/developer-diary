@@ -37,3 +37,5 @@ May 13, 2022 — Reviewed TOP section on asynchronous code (callbacks, promises)
 May 16, 2022 — Started working on my portfolio.
 
 May 17, 2022 — Watched Eddie Jaoude's [complete guide to open source](https://www.youtube.com/watch?v=yzeVMecydCE).
+
+May 21, 2022 — Styled my portfolio's UI.
