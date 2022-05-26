@@ -39,3 +39,5 @@ May 16, 2022 — Started working on my portfolio.
 May 17, 2022 — Watched Eddie Jaoude's [complete guide to open source](https://www.youtube.com/watch?v=yzeVMecydCE).
 
 May 21, 2022 — Styled my portfolio's UI.
+
+May 26, 2022 — Getting back into the swing of things! Read and coded along TOP lesson *[React Testing Part 2](https://www.theodinproject.com/lessons/node-path-javascript-react-testing-part-2)* and opened [my first PR](https://github.com/TheOdinProject/curriculum/pull/24163) on The Odin Project's curriculum for typos fixes. Watching SuperSimpleDev's video on [how to become a software engineer](https://www.youtube.com/watch?v=h-grthPvpB0) rekindled my motivation in this self-taught marathon.
