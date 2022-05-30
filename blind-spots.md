@@ -4,3 +4,5 @@ Here is a *non exhaustive* attempt to list blind spots of mine. I definitely wil
 - RegExp
 - This and .bind()
 - Setters and getters
+- Async and Await
+- Try and Catch
