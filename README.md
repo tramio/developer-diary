@@ -47,3 +47,5 @@ May 27, 2022 — Read more about React testing and started learning what can be 
 May 28, 2022 — Started the Firebase codelab.
 
 May 30, 2022 — Continued the Firebase codelab, curiously my Google name and avatar would display neither within the sandbox nor within the completed version. Messages were successfully stored in the Firestore, but again the UI wouldn't update. Trying to fix that!
+
+May 31, 2022 — Completed the Firebase codelab without succeeding in replicating the expected behaviour sadly. Moving on!
