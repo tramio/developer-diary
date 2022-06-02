@@ -49,3 +49,5 @@ May 28, 2022 — Started the Firebase codelab.
 May 30, 2022 — Continued the Firebase codelab, curiously my Google name and avatar would display neither within the sandbox nor within the completed version. Messages were successfully stored in the Firestore, but again the UI wouldn't update. Trying to fix that!
 
 May 31, 2022 — Completed the Firebase codelab without succeeding in replicating the expected behaviour sadly. Moving on!
+
+June 2, 2022 — Started building a Notion clone with React.js, forcing myself to use TDD. Thought I was having troubles with .map() nesting in the return() of my Nav component: the first map aimed to display my navbar's links, and the second map aimed to display their respective sublinks. For some reason, my code would break. Turns out the issue was, that one of the links had no sublinks (I was trying to map a property that not every array item had). Will have to look up conditional rendering tomorrow!
