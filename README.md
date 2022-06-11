@@ -55,3 +55,7 @@ June 2, 2022 — Started building a Notion clone with React.js, forcing myself t
 June 3, 2022 — Kept working on my Notion clone, dived deeper into the differences between getBy, queryBy and findBy in Testing Library and starting writing a Medium article about it. Re-read the React documentation on conditional rendering and implemented it in the Nav component of my Notion clone. Currently trying to write a groupBy function that would take an array and a key as arguments and split the array into several ones based on their values of the key that was passed. Watched [this video from Splain Train](https://www.youtube.com/watch?v=iBGUyPwm_dM), came across [this article from Dmitri Pavlutin](https://dmitripavlutin.com/javascript-array-group/) and discovered [the array grouping proposal](https://github.com/tc39/proposal-array-grouping) from TC39.
 
 Jun 9, 2022 — Been committing progress about my Notion clone directly on the corresponding repo the past days. Started building my personal website with React.js and Next.js in private today.
+
+Jun 10, 2022 — Submitted a PR to fix an issue (lesson minor restructuring) on TOP curriculum repo.
+
+Jun 11, 2022 — Decided to keep my personal website as a simple React.js rather than a Next.js app as it is a SPA. Read the Next.js documentation still.
