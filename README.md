@@ -59,3 +59,5 @@ Jun 9, 2022 — Been committing progress about my Notion clone directly on the c
 Jun 10, 2022 — Submitted a PR to fix an issue (lesson minor restructuring) on TOP curriculum repo.
 
 Jun 11, 2022 — Decided to keep my personal website as a simple React.js rather than a Next.js app as it is a SPA. Read the Next.js documentation still.
+
+Jun 12, 2022 — Worked through the [Next.js official tutorial](https://nextjs.org/learn/basics/create-nextjs-app): completed the sections "Create a Next.js app", "Navigate between Pages" and "Assets, Metadata and CSS". So far, the learning curve does not look as steep as that of going from vanilla JS to React.js, but learning a new framework (as light as it is) still is tedious!
