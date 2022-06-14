@@ -61,3 +61,7 @@ Jun 10, 2022 — Submitted a PR to fix an issue (lesson minor restructuring) on 
 Jun 11, 2022 — Decided to keep my personal website as a simple React.js rather than a Next.js app as it is a SPA. Read the Next.js documentation still.
 
 Jun 12, 2022 — Worked through the [Next.js official tutorial](https://nextjs.org/learn/basics/create-nextjs-app): completed the sections "Create a Next.js app", "Navigate between Pages" and "Assets, Metadata and CSS". So far, the learning curve does not look as steep as that of going from vanilla JS to React.js, but learning a new framework (as light as it is) still is tedious!
+
+Jun 13, 2022 — Day 2 going through the Next.js tutorial.
+
+Jun 14, 2022 — Day 3, finished the Next.js tutorial and deployed my blog (hosted in a private GitHub repo) to Vercel! The workflow reminds me of my early coding days building a Hugo website and deploying it to Netlify. Learning Next.js really is challenging me, and despite it being intended for programmers who shouldn't need anything more than basic JS/React.js knowledge, I've found myself having to search for explanations as to Node.js/backend queries... This was daunting at first, but ended up being do interesting! I'm very curious and motivated to learn about the backend now.
