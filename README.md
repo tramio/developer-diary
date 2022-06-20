@@ -69,3 +69,7 @@ Jun 14, 2022 — Day 3, finished the Next.js tutorial and deployed my blog (host
 Jun 15, 2022 — Finally started TOP NodeJS course! Completed [Introduction: What is NodeJs](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs) and started [Getting Started](https://www.theodinproject.com/lessons/nodejs-getting-started). Bridging the gap between the MDN introductory articles and the code-alongs from the Node.js documentation has been tough so far.
 
 Jun 18, 2022 — Still coding along the Node.js documentation these past days, will get back into coding "real projects" the upcoming week!
+
+Jun 19, 2022 — Tried practicing Next.js, but Node.js knowledge seemed to be required / help a lot for most challenges I encountered so I kept working on the Node.js documentation.
+
+Jun 20, 2022 — Kept working on TOP [Getting Started](https://www.theodinproject.com/lessons/nodejs-getting-started) lesson. Learned how to build an HTTP server, how to make HTTP requests with Node (notably with the Axios library), usages of the fs module including fs.writeFile() and fs.readFile(). Fireship's video [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://youtu.be/ENrzD9HAZK4) helped a lot. Created a profile on Honeypot.
