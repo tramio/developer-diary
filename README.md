@@ -73,3 +73,23 @@ Jun 18, 2022 — Still coding along the Node.js documentation these past days, w
 Jun 19, 2022 — Tried practicing Next.js, but Node.js knowledge seemed to be required / help a lot for most challenges I encountered so I kept working on the Node.js documentation.
 
 Jun 20, 2022 — Kept working on TOP [Getting Started](https://www.theodinproject.com/lessons/nodejs-getting-started) lesson. Learned how to build an HTTP server, how to make HTTP requests with Node (notably with the Axios library), usages of the fs module including fs.writeFile() and fs.readFile(). Fireship's video [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://youtu.be/ENrzD9HAZK4) helped a lot. Created a profile on Honeypot.
+
+Jun 21, 2022 — Reviewed TOP *Introduction to Node* and finished the mandatory assignments from *Getting Started*.
+
+### Jun 22, 2022
+- Finished [Traversy Media's Node.js Crash Course video](https://www.youtube.com/watch?v=fBNz5xF-Kx4), notably reviewed the URL, Event, EventEmitter and HTTP modules and learned how to deploy an app to Heroku
+- My Honeypot application got denied because they only offer onsite positions in Germany, Austria, Switzerland and The Netherlands at the moment (I specified my wish to remain in France on my profile)
+- Applied for a 10-weeks bootcamp I had been eyeing for a while: took their technical test, updated my CV and scheduled an interview. Crossing fingers!
+- Completed 30% of Codecademy's [JavaScript track](https://www.codecademy.com/learn/introduction-to-javascript). Reviewing the very fundamentals of JavaScript with a different learning material / from a different perspective was refreshing and helped clarifying some concepts!
+
+### Jun 23, 2022
+- started TOP lesson ["Debugging Node"](https://www.theodinproject.com/lessons/nodejs-debugging-node)
+- one of the assignments was to read [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging); this was hard and I had to take a step back to start with [Debugging in VS Code](https://code.visualstudio.com/docs/editor/debugging) first
+- learned how to configure a launch.json file
+- in VS Code, the two core debugging modes _Launch_ and _Attach_ handle two different workflows: "think of a **launch** configuration as a recipe for how to start your app in debug mode before VS Code attaches to it, while an **attach** configuration is a recipe for how to connect VS Code's debugger to an app or process that's already running"_
+- glob patterns specify sets of filenames with wildcard characters
+- a wildcard character is a kind of placeholder represented by a single character [...] which can be interpreted as a number of literal characters or an empty string. It is often used in file searches so the full name need not be typed.
+- learned more about IntelliSense, breakpoints and logpoints
+- REPL stands for Read-Eval-Print Loop
+- reviewed three array methods (.at(), .concat() and .copyWithin()) and documented them in my dedicated GH repo
+- 🎂 webdev-learning anniversary! it's been exactly one year since i started my coding journey with The Odin Project.
