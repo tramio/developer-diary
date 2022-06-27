@@ -1,5 +1,16 @@
 # Developer diary 🟩
 
+### Jun 27, 2022
+- completed TOP [Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) project ([repo](https://github.com/tramio/TOP-basic-informational-site), [demo](https://top-basic-informational-site.tramio.repl.co/))! Although this Node website looks very simple, I've struggled a lot with error handling debugging. The gap between theory and practice was real!
+- my [PR](https://github.com/microsoft/vscode-docs/pull/5423) on the VS Code documentation repo was merged
+- created a MongoDB account
+- WHATWG stands for *Web Hypertext Application Technology Working Group*. It is a community of people interested in evolving HTML and related technologies. It was founded by individuals from Apple, Mozilla and Opera in 2004.
+- The node:url module provides two APIs: a legacy API that is Node.js specific, and a newer API that implements the same WHATWG URL Standard used by web browsers.
+- in Node, with response.writeHead(), I can set my statusCode, statusMessage as well as an object or array of headers
+- this has greater precedence than response.setHeader()
+- a tuple is a data structure consisting of multiple parts
+- REPL stands for *read-evaluate-print loop*
+
 ### Jun 24, 2022
 - CRUD stands for create, read, update, delete.
 - read [Node.js debugging in VS Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging)
