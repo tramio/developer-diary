@@ -1,5 +1,12 @@
 # Developer diary 🟩
 
+### Jun 28, 2022
+- started TOP [Introduction to MongoDB](https://www.theodinproject.com/lessons/nodejs-introduction-to-mongodb) which consists in...
+- taking the [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about) course from the MongoDB University! I completed the chapter 1 today, 7 more to go!
+  - MongoDB is a NoSQL documentDB where documents are stored in collections
+  - created a workspace and a cluster
+- quickly researched what CS50 is, and why it is so popular among webdev learners. In short: it is Harvard's introductory course to computer science, the exact same that CS students take in uni. It is available for free online, self-paced, and has an approximate duration of 11 weeks for a time commitment of 10 to 20 hours per week. Despite being intended for beginners it is believed to be quite hard still, but very useful to have a healthy taste of data structures, algorithms, and how languages work under the hood. I may have a look into it someday!
+
 ### Jun 27, 2022
 - completed TOP [Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) project ([repo](https://github.com/tramio/TOP-basic-informational-site), [demo](https://top-basic-informational-site.tramio.repl.co/))! Although this Node website looks very simple, I've struggled a lot with error handling debugging. The gap between theory and practice was real!
 - my [PR](https://github.com/microsoft/vscode-docs/pull/5423) on the VS Code documentation repo was merged
