@@ -1,5 +1,31 @@
 # Developer diary 🟩
 
+### Jun 29, 2022
+- completed the chapters 2 and 3 and started the chapter 4 from [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about)
+  - GUI (Graphical User Interface): a graphics-based operating system interface that uses icons, menus and a mouse to manage interaction with the system
+  - use **mongorestore** to import and **mongodump** to export bson
+  - use **mongoimport** to import and **mongoexport** to export json
+  - a namespace concatenates a database name and collection name
+  - the default value for the _id identifier is of type ObjectId()
+  - use .findOne() to get a random document from a collection
+  - .insert()
+  - if a document is inserted without a provided _id value, then the _id field and value will be automatically generated for the document before insertion
+  - insertion: ordered by default. if duplicate ids, the process is hold
+  - use {"ordered": false} to disable ordered insertion
+  - attempting to insert a document in a collection that doesn't exist creates a collection
+  - similarly, use [databasethatdoesn't exist] will create that database
+  - hopefully, that newly created db won't appear in my dbs as long as no data is associated with it (no document was inserted)
+  - multiple documents can be inserted by means of an array
+  - collections and databases are created when they are being used: `use tools` followed by db.tractors.insert({<tractor doc}) creates the tools.tractors namespace
+  - update operators: $set, $inc, $push
+  - MQL: MongoDB Query Language
+  - use db.<collection>.drop() to delete a collection
+  - use .deleteOne() or .deleteMany() to delete document(s)
+  - comparison operators: $eq, $ne, $gt, $lt, $gte, $lte
+  - logic operators: $and, $or, $nor, $not
+  - $and is implicit by default
+- gotta look further into $not
+
 ### Jun 28, 2022
 - started TOP [Introduction to MongoDB](https://www.theodinproject.com/lessons/nodejs-introduction-to-mongodb) which consists in...
 - taking the [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about) course from the MongoDB University! I completed the chapter 1 today, 7 more to go!
