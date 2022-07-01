@@ -1,5 +1,34 @@
 # Developer diary 🟩
 
+### Jul. 1
+- completed chapter 6, and thereby finished the [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about) course! grade was 97%, downloaded the proof of completion.
+- completed the compulsory assignments from [TOP Introduction to Express](https://www.theodinproject.com/lessons/nodejs-introduction-to-express)
+  - read [MDN Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+  - read and coded along [MDN Setting up a Node development environment](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment#using_npm). notably installed the Express Application Generator: this tool generates an Express application "skeleton"
+  - refactored by [Basic Informational Website project](https://github.com/tramio/TOP-basic-informational-site) into an Express app
+- looking forward to starting the optional assignments tomorrow! these are Express crash courses from the excellent teachers Traversy Media and Web Dev Simplified
+
+### Jun. 30
+- coworked with my road-to-webdev companion
+- completed chapters 4 and 5 from [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about)
+- $ signifies that you are looking at the value of a field rather than its name
+- $ denotes an operator
+- $push adds an element to an array
+- $push turns a field into an array field if it was previously a different type
+- array operators: $all, $size 
+- use $size to specify the length of the queried array
+- use a projection to display only the fields you want in the cursor
+- db.<collection>.find({query}, {projection}) to specify which fields should or should not be included in the result cursor
+- projections cannot mix inclusion and exclusion, except for "{_id : 0", <field> : 1}"
+- $elemMatch can be used both in query and projection. it matches documents that contain an array field with at least one element that matches the specified query criteria
+- $expr, $regex, $match, $group
+- aggregation framework
+- .sort() : 1 for increasing order, -1 for decreasing order
+- .method()
+- when using .sort() and .limit(), mongoDB assumes that .sort() precedes .limit()
+- learned how to create indexes
+- learned how to use upsert
+
 ### Jun 29, 2022
 - completed the chapters 2 and 3 and started the chapter 4 from [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about)
   - GUI (Graphical User Interface): a graphics-based operating system interface that uses icons, menus and a mouse to manage interaction with the system
