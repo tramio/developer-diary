@@ -1,5 +1,23 @@
 # Developer diary 🟩
 
+### Jul. 5
+- read the article [Using middleware](https://expressjs.com/en/guide/using-middleware.html) from the Express documentation, which concludes the lesson [Express 101](https://www.theodinproject.com/lessons/nodejs-express-101) from TOP
+
+### Jul. 4
+- completed the optional assignments from [TOP Introduction to Express](https://www.theodinproject.com/lessons/nodejs-introduction-to-express)
+  - finished watching Traversy Media's [Express crash course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+  - watched Web Dev Simplified's [Learn Express JS In 35 Minutes](https://www.youtube.com/watch?v=SccSCuHhOw0) video
+    - static routes should be declared above dynamic routes
+  - also watched Web Dev Simplified's video [Why You Don't Want To Work In FAANG](https://www.youtube.com/watch?v=twKrik7KY6Y), which I found quite interesting and recommend to anyone, whether in the tech industry or not!
+- started the lesson [Express 102: CRUD and MVC](https://www.theodinproject.com/lessons/nodejs-express-102-crud-and-mvc) from TOP
+  - MVC stands for Model, View, Controller and refers to the architecture of your code. It is a way to organize your application by separating all of the actions into 3 main components: Models, Views and Controllers.
+  - watched WDS' [Mongoose Crash Course](https://www.youtube.com/watch?v=DZBGEVgL2eE) twice
+
+### Jul. 2
+- started the lesson [Express 101](https://www.theodinproject.com/lessons/nodejs-express-101) from TOP
+  - read MDN's [introduction to their Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
+  - started coding along [the second part of the introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website)
+
 ### Jul. 1
 - completed chapter 6, and thereby finished the [MongoDB Basics (M001)](https://university.mongodb.com/courses/M001/about) course! grade was 97%, downloaded the proof of completion.
 - completed the compulsory assignments from [TOP Introduction to Express](https://www.theodinproject.com/lessons/nodejs-introduction-to-express)
