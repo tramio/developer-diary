@@ -1,5 +1,19 @@
 # Developer diary 🟩
 
+### Jul. 6
+- spent the day building yet another version of my portfolio, this time with next.js and typescript! hoping to deploy it on vercel by the end of the week
+- coming back to next.js after these past weeks learning node.js, mongoDB and express was a mindblowing experience — so many things clicked all of a sudden! not having to stick closely to the documentation to operate the tiniest changes was so freeing
+- currently having some issues loading static assets, will fix this asap
+- typescript is a whole new technology for me though
+- watched TM's [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
+  - typescript has type inference
+  - got to understand the difference between TS interfaces and types
+  - got to look up type assertions use cases
+  - learned how to declare optional and readonly properties
+  - interesting fact: typescript is included in angular projects by default
+- RFC stands for Request For Comments
+- having an interview tomorrow! also prepared for it.
+
 ### Jul. 5
 - read the article [Using middleware](https://expressjs.com/en/guide/using-middleware.html) from the Express documentation, which concludes the lesson [Express 101](https://www.theodinproject.com/lessons/nodejs-express-101) from TOP
 
