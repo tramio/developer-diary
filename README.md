@@ -1,5 +1,14 @@
 # Developer diary 🟩
 
+### Jul. 10
+- finished the lesson [Express 102: CRUD and MVC](https://www.theodinproject.com/lessons/nodejs-express-102-crud-and-mvc) from TOP. Coming back to Mongoose after having taken a step aside to learn TypeScript was painful at first _(types, interfaces, schemas, schema types... it's all about **types**)_, but at the end of the day, the knowledge of each of them helped cementing that of the other!
+- also completed the lesson [Preparing for Deployment](https://www.theodinproject.com/lessons/nodejs-preparing-for-deployment) from TOP, which consisted of the following steps:
+    - created a Heroku account
+    - installed the Heroku CLI
+    - added my SSH key to Heroku
+- started the [Mini Message Board](https://www.theodinproject.com/lessons/nodejs-mini-message-board) project from TOP which involves the usage of a templating language; this isn't taught in TOP, and the choice of the templating language is left to the student. I chose Pug!
+- started reading the Pug documentation
+
 ### Jul. 6
 - spent the day building yet another version of my portfolio, this time with next.js and typescript! hoping to deploy it on vercel by the end of the week
 - coming back to next.js after these past weeks learning node.js, mongoDB and express was a mindblowing experience — so many things clicked all of a sudden! not having to stick closely to the documentation to operate the tiniest changes was so freeing
