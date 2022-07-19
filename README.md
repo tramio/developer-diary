@@ -1,5 +1,20 @@
 # Developer diary 🟩
 
+### Jul. 19
+- slowed down over the past week because of the heat wave *(and recruiting processes!)*, but I'm now back in the coding pit!
+- completed TOP Mini Message Board project: [instructions](https://www.theodinproject.com/lessons/nodejs-mini-message-board), [repo](https://github.com/tramio/TOP-mini-message-board), [deployment](https://fathomless-wildwood-44689.herokuapp.com/). It doesn't *look* mighty (it wasn't blessed by the CSS Gods), but does check the project requirements and that's all that matters - practiced Express routing, Pug templating and Heroku deployment!
+- this project was my first try at using a templating engine
+- escaping characters is useful to prevent XSS attacks
+- Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites
+- completed [Express 103: Routes and Controllers ](https://www.theodinproject.com/lessons/nodejs-express-103-routes-and-controllers)
+
+### Jul. 16
+- listened to the first episode of the season 9 of Command Line Heroes: [*Relentless Replicators*](https://www.redhat.com/en/command-line-heroes/season-9/relentless-replicators). This season is all about cybersecurity threats!
+### Jul. 14
+- read the Next.js documentation about font optimization and custom Document
+- FCP stands for First Contentful Paint. Sites should strive to have a FCP of 1.8 seconds or less. https://web.dev/fcp/
+- LCP stands for Largest Contentful Paint. Sites should strive to have a LCP of 2.5 seconds or less. https://web.dev/lcp/
+
 ### Jul. 10
 - finished the lesson [Express 102: CRUD and MVC](https://www.theodinproject.com/lessons/nodejs-express-102-crud-and-mvc) from TOP. Coming back to Mongoose after having taken a step aside to learn TypeScript was painful at first _(types, interfaces, schemas, schema types... it's all about **types**)_, but at the end of the day, the knowledge of each of them helped cementing that of the other!
 - also completed the lesson [Preparing for Deployment](https://www.theodinproject.com/lessons/nodejs-preparing-for-deployment) from TOP, which consisted of the following steps:
