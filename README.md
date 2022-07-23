@@ -1,5 +1,10 @@
 # Developer diary 🟩
 
+### Jul. 23
+- completed [TOP Express 104: View Templates](https://www.theodinproject.com/lessons/nodejs-express-104-view-templates) lesson
+- no new major concepts compared to what I had to learn on my own to complete the Mini Message Board project (Pug basics: syntax, variables, loops...), but it was a nice, *tough* refresher
+- used the Luxon library for the first time
+
 ### Jul. 19
 - slowed down over the past week because of the heat wave *(and recruiting processes!)*, but I'm now back in the coding pit!
 - completed TOP Mini Message Board project: [instructions](https://www.theodinproject.com/lessons/nodejs-mini-message-board), [repo](https://github.com/tramio/TOP-mini-message-board), [deployment](https://fathomless-wildwood-44689.herokuapp.com/). It doesn't *look* mighty (it wasn't blessed by the CSS Gods), but does check the project requirements and that's all that matters - practiced Express routing, Pug templating and Heroku deployment!
