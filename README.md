@@ -1,9 +1,24 @@
 # Developer diary 🟩
 
+### Jul. 24
+- started [TOP Express 105: Forms And Deployment](https://www.theodinproject.com/lessons/nodejs-express-105-forms-and-deployment) lesson, which touches on server-side form sanitization and validation
+    - kept working through the [MDN guided library project](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms). The [challenge yourself](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms#challenge_yourself) and deployment sections are remaining.
+    - validation vs sanitization refresher by MDN:
+        > Before the data from a form is stored it must be validated and sanitized:
+        > - Validation checks that entered values are appropriate for each field (are in the right range, format, etc.) and that values have been supplied for all required fields.
+        > - Sanitization removes/replaces characters in the data that might potentially be used to send malicious content to the server.
+- discovered the following html elements:
+    - dl: description list
+    - dt: description term
+    - dd: description details
+    
 ### Jul. 23
 - completed [TOP Express 104: View Templates](https://www.theodinproject.com/lessons/nodejs-express-104-view-templates) lesson
-- no new major concepts compared to what I had to learn on my own to complete the Mini Message Board project (Pug basics: syntax, variables, loops...), but it was a nice, *tough* refresher
-- used the Luxon library for the first time
+- learned about [how to manage asynchronous operations in controller functions](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Displaying_data/flow_control_using_async)
+    - installed the async module
+    - discovered the following methods: async.parallel(), async.series(), async.waterfall()
+- reviewed Pug basics: syntax, variables, loops, conditionals...
+- tried out the Luxon library
 
 ### Jul. 19
 - slowed down over the past week because of the heat wave *(and recruiting processes!)*, but I'm now back in the coding pit!
