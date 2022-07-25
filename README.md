@@ -1,5 +1,9 @@
 # Developer diary 🟩
 
+### Jul. 25
+- kept working on [TOP Express 105: Forms And Deployment](https://www.theodinproject.com/lessons/nodejs-express-105-forms-and-deployment) lesson.
+    - implemented the book deletion feature; this took me more time than expected as I tried to rely the least possible on the author deletion code written yesterday (tried writing on my own first before peaking at existing code whenever stuck), but this forced me to really understand what I was doing and my understanding is definitely greater than yesterday!
+
 ### Jul. 24
 - started [TOP Express 105: Forms And Deployment](https://www.theodinproject.com/lessons/nodejs-express-105-forms-and-deployment) lesson, which touches on server-side form sanitization and validation
     - kept working through the [MDN guided library project](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms). The [challenge yourself](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms#challenge_yourself) and deployment sections are remaining.
